@@ -1,0 +1,10 @@
+* cl-cairo2
+
+Cairo bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/cl-cairo2.git   |
+| commit  | 41ae45a  |
+| systems | cl-cairo2 |
+|---------+-------------------------------------------|
+
