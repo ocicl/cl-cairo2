@@ -3,8 +3,7 @@
 Cairo bindings for Common Lisp
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/rpav/cl-cairo2.git   |
-| commit  | 41ae45a  |
-| systems | cl-cairo2 |
+| source  | git:https://github.com/rpav/cl-cairo2.git |
+| commit  | 41ae45a                                   |
+| systems | cl-cairo2 cl-cairo-gtk2                   |
 |---------+-------------------------------------------|
-
